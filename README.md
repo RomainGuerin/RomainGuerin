@@ -2,8 +2,8 @@
 
 Je suis [Romain Guérin](https://github.com/RomainGuerin/), **Apprenti Développeur Web et Application** ! 🐱‍👤  
 
-Je prépare en ce moment mon **BTS Services Informatiques aux Organisations** *option Solutions Logicielles et Applications Métier*, à ESIEE-IT. 👨‍🎓  
-Et je suis actuellement **Apprenti Support IT au sein de RE/MAX France**. 👔  
+Je prépare en ce moment un **BTS Services Informatiques aux Organisations** *option Solutions Logicielles et Applications Métier*. 👨‍🎓  
+Et je suis actuellement **Apprenti Support IT**. 👔  
 
 Passionné par l’informatique depuis mon plus jeune âge, je m'investis pour consolider mes compétences dans le domaine du développement web et application. 👾
   
