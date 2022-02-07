@@ -21,7 +21,7 @@ Passionné par l’informatique depuis mon plus jeune âge, je m'investis pour c
 | Python          | ▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒ |
 | Java            | ▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ |
   
-- [x] 👨‍💻 Je travaille actuellement sur mon [Portfolio](https://romainguerin.alwaysdata.net), ainsi, j'améliore mes compétences en Développement Web.  
+- [x] 👨‍💻 Je travaille actuellement sur mon [Portfolio](https://romain-guerin.alwaysdata.net), ainsi, j'améliore mes compétences en Développement Web.  
 - [x] 👨‍💻 J'apprends les langages de programmation en 🐍 Python 3.x, ☕ Java ... 
 - [x] 👨‍💻 Mise en place de bases de données (MySQL)   
 - [x] 👨‍💻 Maintenance de système applicatif  
