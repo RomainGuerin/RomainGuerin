@@ -44,7 +44,7 @@ Passionné par l’informatique depuis mon plus jeune âge, je m'investis pour c
 
 ### Pour me joindre  
 
-#### 🎓 [LinkedIn](https://www.linkedin.com/in/romain-guérin/) • 📝 [Portfolio](https://romainguerin.alwaysdata.net) • 📌 [Twitter](https://twitter.com/GurinRomain1)
+#### 🎓 [LinkedIn](https://www.linkedin.com/in/romain-guérin/) • 📝 [Portfolio](https://romain-guerin.alwaysdata.net) • 📌 [Twitter](https://twitter.com/GurinRomain1)
 
 ---
 [Stats](https://github-readme-stats.vercel.app/)
