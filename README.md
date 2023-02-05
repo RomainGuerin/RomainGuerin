@@ -1,9 +1,8 @@
 ### Salut 👋 !
 
-Je suis [Romain Guérin](https://github.com/RomainGuerin/), **Apprenti Développeur Web et Application** ! 🐱‍👤  
+Je suis [Romain Guérin](https://github.com/RomainGuerin/), **Apprenti Développeur Full-Stack** ! 🐱‍👤  
 
-Je prépare en ce moment un **BTS Services Informatiques aux Organisations** *option Solutions Logicielles et Applications Métier*. 👨‍🎓  
-Et je suis actuellement **Apprenti Support IT**. 👔  
+Je prépare en ce moment un diplôme d'**Expert en Ingénierie Informatique et Innovation Numérique - E3IN**. 👨‍🎓  
 
 Passionné par l’informatique depuis mon plus jeune âge, je m'investis pour consolider mes compétences dans le domaine du développement web et application. 👾
   
@@ -15,15 +14,16 @@ Passionné par l’informatique depuis mon plus jeune âge, je m'investis pour c
 
 | Langages        |   Connaissances    |
 | :-------------- | :----------------: |
-| HTML            | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒ |
-| CSS             | ▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒ |
+| HTML            | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒ |
+| CSS             | ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▒ |
+| JavaScript      | ▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒ |
 | PHP             | ▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒ |
-| Python          | ▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒▒▒▒ |
+| Python          | ▓▓▓▓▓▓▓▓▓▓▒▒▒▒▒▒▒▒ |
 | Java            | ▓▓▓▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒ |
   
-- [x] 👨‍💻 Je travaille actuellement sur mon [Portfolio](https://romain-guerin.alwaysdata.net), ainsi, j'améliore mes compétences en Développement Web.  
-- [x] 👨‍💻 J'apprends les langages de programmation en 🐍 Python 3.x, ☕ Java ... 
-- [x] 👨‍💻 Mise en place de bases de données (MySQL)   
+- [x] 👨‍💻 Voici mon [Portfolio](https://portfolio-guerin.fr/), ainsi, j'améliore mes compétences en Développement Web.  
+- [x] 👨‍💻 J'apprends les langages de programmation en 🐍 Python 3.x, ☕ Java, JavaScript ... 
+- [x] 👨‍💻 Mise en place de bases de données (SQL)   
 - [x] 👨‍💻 Maintenance de système applicatif  
 - [x] 👔 Support aux utilisateurs  
 - [x] 👔 Formation des utilisateurs  
@@ -37,6 +37,7 @@ Passionné par l’informatique depuis mon plus jeune âge, je m'investis pour c
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomainGuerin&repo=MiniJeux&theme=dark" />
 </a>  
 
+
 ### Mes passions
 
 <p align="center">🎞 Japanimation &emsp;•&emsp; 📚 Manga &emsp;•&emsp; 🎶 Musique</p>
@@ -44,7 +45,7 @@ Passionné par l’informatique depuis mon plus jeune âge, je m'investis pour c
 
 ### Pour me joindre  
 
-#### 🎓 [LinkedIn](https://www.linkedin.com/in/romain-guérin/) • 📝 [Portfolio](https://romain-guerin.alwaysdata.net) • 📌 [Twitter](https://twitter.com/GurinRomain1)
+#### 🎓 [LinkedIn](https://www.linkedin.com/in/romain-guérin/) • 📝 [Portfolio](https://portfolio-guerin.fr/) • 📌 [Twitter](https://twitter.com/GurinRomain1)
 
 ---
 [Stats](https://github-readme-stats.vercel.app/)
