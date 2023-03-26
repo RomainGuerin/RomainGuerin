@@ -28,16 +28,6 @@ Passionné par l’informatique depuis mon plus jeune âge, je m'investis pour c
 - [x] 👔 Support aux utilisateurs  
 - [x] 👔 Formation des utilisateurs  
 
-### Projets  
-
-<a href="https://github.com/RomainGuerin/todo_list">
-  <img align="center" alt="" src="https://github-readme-stats.vercel.app/api/pin/?username=RomainGuerin&repo=todo_list&theme=dark" />
-</a>
-<a href="https://github.com/RomainGuerin/MiniJeux">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RomainGuerin&repo=MiniJeux&theme=dark" />
-</a>  
-
-
 ### Mes passions
 
 <p align="center">🎞 Japanimation &emsp;•&emsp; 📚 Manga &emsp;•&emsp; 🎶 Musique</p>
